@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import SearchBar from './components/SearchBar'
+import SearchBar from './components/SearchBar/SearchBar'
 import { fetchWeather } from './api'
 import WeatherCard from './components/WeatherCard'
 
